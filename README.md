@@ -35,7 +35,7 @@ The data is collected using BeautifulSoup (bs4) to scrape data from [ESPNCricinf
 By following this data collection, preprocessing, and modeling pipeline, the Women's Premier League Dream 11 Predictor project ensures that the collected data is transformed into a suitable format for analysis and prediction. This empowers users to make informed decisions while selecting their dream teams for the WPL.
 
 ## Download Dataset
-[Womens Premier League 2023 (WPL) Dataset by Adnan Sattikar](https://www.kaggle.com/datasets/adnansattikar/womenspremierleague2023)
+[Womens Premier League 2023 (WPL) Dataset](https://www.kaggle.com/datasets/adnansattikar/womenspremierleague2023)
 
 ## Technologies Used
 
